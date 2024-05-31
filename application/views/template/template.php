@@ -41,8 +41,7 @@
 
             <div class="col-md-4 d-flex align-items-center">
                 <a href="/" class="mb-3 me-2 mb-md-0 text-muted text-decorationnone lh-1">
-                    <img width="30" height="24" src="<?php echo
-                                                        site_url('assets/bootswatch-5/docs/_assets/img/logo-dark.svg'); ?>">
+                    <img width="30" height="24" src="<?php echo site_url('assets/bootswatch-5/docs/_assets/img/logo-dark.svg'); ?>">
                 </a>
                 <span class="text-muted">©2024 Praktikum TIF, <b>AHMAD JAUHARI</b> | 1412220090</span>
             </div>
