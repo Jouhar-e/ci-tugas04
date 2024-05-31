@@ -7,7 +7,7 @@
     <title><?php echo $title; ?></title>
     <link rel="icon" href="<?php echo site_url('assets/bootswatch5/docs/_assets/img/logo.svg'); ?>" type="image/x-icon">
     <!-- Bootstrap CSS -->
-    <link href="<?= base_url('assets/bootswatch-5/dist/litera/bootstrap.min.css') ?>" rel="stylesheet">
+    <link href="<?= base_url('assets/bootswatch-5/dist/solar/bootstrap.min.css') ?>" rel="stylesheet">
 </head>
 
 <body>
